@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rashid Iqbal</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=50&pause=500&color=2A6EE5&center=true&width=921&height=150&lines=Hi+%F0%9F%91%8B%2C+I'm+Rashid+Iqbal;+I'm+Frontend+Developer;I'm+Designer;I'm+Back+End+Developer;Loves+to+Create+Websites;And+Animations)](https://git.io/typing-svg)
 
 ![giphy (1)](https://user-images.githubusercontent.com/126884299/236596799-15905c4f-ba35-4cdd-9a75-04426d5250ac.gif)
 
