@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashid Iqbal</h1>
 
 ![giphy (1)](https://user-images.githubusercontent.com/126884299/236596799-15905c4f-ba35-4cdd-9a75-04426d5250ac.gif)
-![giphy (2)](https://user-images.githubusercontent.com/126884299/236597957-56217e00-56d5-4e9d-ac91-ed1717eb00d5.gif)
+
 
 
 
